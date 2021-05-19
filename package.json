@@ -1,0 +1,22 @@
+{
+  "name": "proyecto-finall",
+  "version": "1.0.0",
+  "description": "Proyecto Final Macdalys",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GoldoExotico/Proyecto-Finall.git"
+  },
+  "author": "Juan Manuel Muñoz Peralta",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GoldoExotico/Proyecto-Finall/issues"
+  },
+  "homepage": "https://github.com/GoldoExotico/Proyecto-Finall#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
